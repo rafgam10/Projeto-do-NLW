@@ -12,4 +12,10 @@ Estou colocando div e algumas class no codigo e alterando o README, coloquei um 
 
 # =====================================
 
+# Dia 3.
+Coloquei algumas comandos de ir ao local da página e também um scollreveal no main.js e criei objetos no js.
+
+
+# =====================================
+
 Meu Insta🌐: https://www.instagram.com/rafael.timoteo.r.h/
