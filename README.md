@@ -18,7 +18,7 @@ Coloquei algumas comandos de ir ao local da página e também um scollreveal no 
 # =====================================
 
 # Dia 4.
-
+Coloquei alguns comando de ids, e coloquei endereço e mudei a função do agende do button por tag a e mudei a cor para roxo.
 
 # =====================================
 
