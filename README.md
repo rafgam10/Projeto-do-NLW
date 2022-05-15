@@ -22,4 +22,9 @@ Coloquei alguns comando de ids, e coloquei endereço e mudei a função do agend
 
 # =====================================
 
+# Dia 5.
+Para finalizar o projeto, mudei a cor dele quando for no modo pc e deixei resposivo coloquei mais coisas no main.js e no style.css e coloquei divs de nome da class "col-a" e "col-b" para colocar em colunas.
+
+# =====================================
+
 Meu Insta🌐: https://www.instagram.com/rafael.timoteo.r.h/
